@@ -9,7 +9,7 @@ const Notes = () => {
     <div className="row mb-3">
     <h1>Your Notes</h1>
     {notes.map((note)=>{
-      return <Noteitems notes = {note}/>;
+      return <Noteitems key={note._id} notes = {note}/>;
     })}
     </div>
   )

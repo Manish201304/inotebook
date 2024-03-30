@@ -1,5 +1,6 @@
 import './App.css';
 import About from './Components/About';
+import Alerts from './Components/Alerts';
 import Home from './Components/Home';
 import Navbar from './Components/Navbar';
 import NoteState from './context/notes/NoteState';
@@ -10,6 +11,7 @@ function App() {
   return (
     <NoteState> 
       <Router>
+        <Alerts message = "This is an alert message"/>
           <Navbar />
         <div className='container'>
           <Routes>
