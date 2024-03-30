@@ -29,6 +29,42 @@ const NoteState = (props) => {
             "tag": "OS",
             "date": "2024-03-30T04:59:24.805Z",
             "__v": 0
+        },
+        {
+            "_id": "66079c2c46ada13d83588a53",
+            "user": "660546dfc54fbfb142c7980b",
+            "title": "Operating System",
+            "description": "This is my first notes on OS",
+            "tag": "OS",
+            "date": "2024-03-30T04:59:24.805Z",
+            "__v": 0
+        },
+        {
+            "_id": "66079c2c46ada13d83588a53",
+            "user": "660546dfc54fbfb142c7980b",
+            "title": "Operating System",
+            "description": "This is my first notes on OS",
+            "tag": "OS",
+            "date": "2024-03-30T04:59:24.805Z",
+            "__v": 0
+        },
+        {
+            "_id": "66079c2c46ada13d83588a53",
+            "user": "660546dfc54fbfb142c7980b",
+            "title": "Operating System",
+            "description": "This is my first notes on OS",
+            "tag": "OS",
+            "date": "2024-03-30T04:59:24.805Z",
+            "__v": 0
+        },
+        {
+            "_id": "66079c2c46ada13d83588a53",
+            "user": "660546dfc54fbfb142c7980b",
+            "title": "Operating System",
+            "description": "This is my first notes on OS",
+            "tag": "OS",
+            "date": "2024-03-30T04:59:24.805Z",
+            "__v": 0
         }
     ]
 
